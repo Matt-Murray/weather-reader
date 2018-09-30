@@ -1,8 +1,9 @@
 # Weather Reader
 
 This is a web app that presents your local weather conditions using your geolocation 
-through FreeCodeCamp's weather API. It was written in HTML, CSS, and JavaScript with
-JSON and JQuery.
+through FreeCodeCamp
+
+![screenshot](https://imgur.com/NAQrGtp.png)
 
 ## Reflection
 
