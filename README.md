@@ -1,7 +1,7 @@
 # Weather Reader
 
 This is a web app that presents your local weather conditions using your geolocation 
-through FreeCodeCamp
+through FreeCodeCamp's weather API.
 
 ![screenshot](https://imgur.com/NAQrGtp.png)
 
